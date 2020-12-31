@@ -1,0 +1,9 @@
+com\gmail\alexwazzan1\tools\commands\Copy.class
+com\gmail\alexwazzan1\tools\commands\Reset.class
+com\gmail\alexwazzan1\tools\commands\Set.class
+com\gmail\alexwazzan1\tools\listeners\PlaceBlock.class
+com\gmail\alexwazzan1\tools\Main.class
+com\gmail\alexwazzan1\tools\Size.class
+com\gmail\alexwazzan1\tools\listeners\BreakBlock.class
+com\gmail\alexwazzan1\tools\Rotate.class
+com\gmail\alexwazzan1\tools\commands\Undo.class
